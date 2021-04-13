@@ -1,0 +1,14 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:alicefrancener/weather-app.git",
+  "author": "Alice Francener",
+  "license": "MIT",
+  "scripts": {
+    "start" : "node app.js"
+  },
+  "dependencies": {
+    "request": "2.88.0"
+  }
+}

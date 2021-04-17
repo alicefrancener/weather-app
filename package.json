@@ -6,9 +6,10 @@
   "author": "Alice Francener",
   "license": "MIT",
   "scripts": {
-    "start" : "node app.js"
+    "start": "node app.js"
   },
   "dependencies": {
+    "dotenv": "^8.2.0",
     "request": "2.88.0"
   }
 }
